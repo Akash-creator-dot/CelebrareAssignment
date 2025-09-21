@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="font_list">
+        <item>Default</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+        <item>Sans Serif</item>
+    </string-array>
+</resources>
