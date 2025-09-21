@@ -21,7 +21,7 @@
 
 ## 🎬 Demo Video
 
-![Demo Video Placeholder](path_to_your_video_or_gif_here)  
+![Demo Video Placeholder]([path_to_your_video_or_gif_here](https://github.com/Akash-creator-dot/CelebrareAssignment/blob/f20c30f7f9d65f7d34952ea255496f23ce3b1266/Assingment.mp4))  
 
 > Replace `path_to_your_video_or_gif_here` with a relative path to your video in the repository or a hosted GIF/video link.
 
