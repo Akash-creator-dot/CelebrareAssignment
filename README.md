@@ -21,7 +21,7 @@
 
 ## 🎬 Demo Video
 
-![Demo Video Placeholder]([path_to_your_video_or_gif_here](https://github.com/Akash-creator-dot/CelebrareAssignment/blob/f20c30f7f9d65f7d34952ea255496f23ce3b1266/Assingment.mp4))  
+https://github.com/Akash-creator-dot/CelebrareAssignment/blob/3e22f47946d61150396afd3ecdbfad9c2ff6bb75/Assingment.mp4  
 
 ---
 
